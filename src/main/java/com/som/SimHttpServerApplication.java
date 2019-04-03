@@ -8,7 +8,7 @@ public class SimHttpServerApplication {
 
 	public static void main(String[] args) {
 
-		String version="v.0.1  ";
+		String version="v.0.1   king";
 		SpringApplication.run(SimHttpServerApplication.class, args);
 	}
 
