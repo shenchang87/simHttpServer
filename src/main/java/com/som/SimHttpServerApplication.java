@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimHttpServerApplication {
 
 	public static void main(String[] args) {
-		
+
+		String version="v.0.1";
 		SpringApplication.run(SimHttpServerApplication.class, args);
 	}
 
